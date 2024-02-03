@@ -8,5 +8,5 @@ public abstract class Fruit
    
    public Double rate;
    
-   public void eat() {};
+   public abstract void eat() ;
 }
