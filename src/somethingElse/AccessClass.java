@@ -7,7 +7,7 @@ public class AccessClass extends OtherClass
    public static void main(String[] args)
    {
       OtherClass otherClass = new OtherClass();
-      test();
+//      test();
    }
    
    void function() {
