@@ -1,6 +1,6 @@
 package otherPackage;
 
-public class TestFinal
+public abstract class TestFinal
 {
    void function()
    {
@@ -8,4 +8,5 @@ public class TestFinal
 //      public int testInt2;// don't work
       final int testInt3; //work
    }
+   abstract void teste();
 }
